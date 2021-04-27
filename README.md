@@ -10,7 +10,7 @@ I tried to predict mobile price range (0-3).
 **Pearson Correlation Github:** https://github.com/krishnaik06/Complete-Feature-Selection/blob/master/2-Feature%20Selection-%20Correlation.ipynb
 
 ## Data Cleaning
-After loading the data, I needed to clean it up so that it was usable for our model. I made the following changes:
+After loading the data I made the following changes:
 * checked for any null values,
 * ckecked if all of the features are of the correct type (numeric)
 

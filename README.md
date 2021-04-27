@@ -5,7 +5,7 @@ I tried to predict mobile price range (0-3).
 ## Code and Resources Used
 **Python Version:** `3.8.6`
 
-**Packages:** `pandas, numpy, matplotlib, seaborn, sklearn,`
+**Packages:** `pandas, numpy, matplotlib, seaborn, sklearn`
 
 **Pearson Correlation Github:** https://github.com/krishnaik06/Complete-Feature-Selection/blob/master/2-Feature%20Selection-%20Correlation.ipynb
 

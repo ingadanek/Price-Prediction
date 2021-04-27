@@ -1,0 +1,29 @@
+[33mcommit d79da5c9788a3a6e81582557087a46be535f8fc6[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;31morigin/dev[m[33m)[m
+Author: Inga Danek <danekinga@gmail.com>
+Date:   Fri Apr 23 14:01:22 2021 +0100
+
+    train Decision Tree & Random Forest models
+
+[33mcommit f8b2bea4fb19a5cb603842df756b1515acbd2f11[m
+Author: Inga Danek <danekinga@gmail.com>
+Date:   Fri Apr 23 13:44:56 2021 +0100
+
+    train Linear Regression Model
+
+[33mcommit 6207d0f0f8f720155f4627e5bced4e128599ec5b[m
+Author: Inga Danek <danekinga@gmail.com>
+Date:   Fri Apr 23 13:33:17 2021 +0100
+
+    add EDA
+
+[33mcommit 101d23abb44e8dfb267a0b69b6ccf61ab924a029[m
+Author: Inga Danek <danekinga@gmail.com>
+Date:   Wed Apr 21 17:27:06 2021 +0100
+
+    import dataset
+
+[33mcommit 24d827f2c09059d75a877fff9c5e8dc4ddea27c1[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Inga Danek <danekinga@gmail.com>
+Date:   Wed Apr 21 17:00:41 2021 +0100
+
+    add test and train datasets
